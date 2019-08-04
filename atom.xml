@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayssi.github.io/jcblog/</id>
-    <title>Gridea</title>
-    <updated>2019-08-04T03:19:35.197Z</updated>
+    <title>JC | 能来到这里，你一定很特别</title>
+    <updated>2019-08-04T03:22:52.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayssi.github.io/jcblog/"/>
     <link rel="self" href="https://jayssi.github.io/jcblog//atom.xml"/>
     <subtitle>浮云没有本身的轨迹，结果却在闲适与游荡中消磨了自己</subtitle>
     <logo>https://jayssi.github.io/jcblog//images/avatar.png</logo>
     <icon>https://jayssi.github.io/jcblog//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, JC | 能来到这里，你一定很特别</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://jayssi.github.io/jcblog//post/about</id>
+        <link href="https://jayssi.github.io/jcblog//post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jayssi.github.io/jcblog//post/hello-gridea</id>
