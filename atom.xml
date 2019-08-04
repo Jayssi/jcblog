@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jayssi.github.io/jcblog/</id>
+    <id>https://jayssi.github.io/</id>
     <title>Hi, i&apos;m JC.</title>
-    <updated>2019-08-04T10:27:51.370Z</updated>
+    <updated>2019-08-04T10:29:53.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jayssi.github.io/jcblog/"/>
-    <link rel="self" href="https://jayssi.github.io/jcblog//atom.xml"/>
+    <link rel="alternate" href="https://jayssi.github.io/"/>
+    <link rel="self" href="https://jayssi.github.io//atom.xml"/>
     <subtitle>- 能来到这里，你一定很特别。-</subtitle>
-    <logo>https://jayssi.github.io/jcblog//images/avatar.png</logo>
-    <icon>https://jayssi.github.io/jcblog//favicon.ico</icon>
+    <logo>https://jayssi.github.io//images/avatar.png</logo>
+    <icon>https://jayssi.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Hi, i&apos;m JC.</rights>
     <entry>
         <title type="html"><![CDATA[关于技术团队如何进行绩效管理的思考]]></title>
-        <id>https://jayssi.github.io/jcblog//post/guan-yu-ji-zhu-tuan-dui-ru-he-jin-xing-ji-xiao-guan-li-de-si-kao</id>
-        <link href="https://jayssi.github.io/jcblog//post/guan-yu-ji-zhu-tuan-dui-ru-he-jin-xing-ji-xiao-guan-li-de-si-kao">
+        <id>https://jayssi.github.io//post/guan-yu-ji-zhu-tuan-dui-ru-he-jin-xing-ji-xiao-guan-li-de-si-kao</id>
+        <link href="https://jayssi.github.io//post/guan-yu-ji-zhu-tuan-dui-ru-he-jin-xing-ji-xiao-guan-li-de-si-kao">
         </link>
         <updated>2019-08-04T10:03:24.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
@@ -34,7 +34,7 @@ OKR（Objectives and Key Results）- 目标与关键成果；</p>
 <li>制定对象不同</li>
 <li>利益对象不同</li>
 </ul>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564913615494.jpg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564913615494.jpg" alt=""></p>
 <h4 id="一-核心机制不同">一、核心机制不同</h4>
 <blockquote>
 <p>KPI 的核心机制在于：指标的分解（分发）<br>
@@ -49,7 +49,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <hr>
 <h3 id="说了这么多技术人员的绩效怎么做">说了这么多，技术人员的绩效怎么做？</h3>
 <p>如果你是一位设计师，在你决定某个需求的设计方案之前，你需要与你的设计领导或者产品经理（需求方）有足够的沟通。这个沟通不单单指“这个需求要做成什么样子？”，还需要进一步去了解“为什么要做这样一个需求？这个需求做成之后达成了什么样的目标？”，然后思考自己在这个过程中能够收获到什么。最后，再根据这些沟通后所得到的必要的“素材”，来细化自己具体需要去执行的任务项以及要达到的效果。这样一来，“写kpi”这件事情就会变得更简单~</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564913626465.jpg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564913626465.jpg" alt=""></p>
 <p>上面讲了很多关于 KPI 和 OKR 与技术人员之间的关系做铺垫。其实，这两个工具并不是说哪个就更好，如果企业使用 KPI 来管理，自然有它存在的道理，技术人员如果认为 KPI 不适合自己，那么可以通过 OKR 的方式来自己管理自己。</p>
 <p>在工业时代，许多工作的类型都是“推算型”的，是根据一系列现成的条件和指令，按照某种途径来达到某种具体的结果，特点是重复性和机械性，例如：流水线上组装手机的工人。而 KPI 是这个时代下的产物。</p>
 <p>在互联网时代，工作类型更多是“探索型”的，它的形态刚好与“推算型”的工作相反，没有太多现成的物料和方法可以参照执行，存在着许多不确定性，必须通过试验去找寻更多的可能性，关注过程和结果，同时更加关注过程，例如：设计方案上线之前无法得到一个准确的答案，需要去探索设计的过程并根据结果的反馈不断去尝试。很显然，OKR 会更加适合。</p>
@@ -58,16 +58,16 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 大王叫我来巡山]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-da-wang-jiao-wo-lai-xun-shan</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-da-wang-jiao-wo-lai-xun-shan">
+        <id>https://jayssi.github.io//post/sheng-huo-xiao-ji-or-da-wang-jiao-wo-lai-xun-shan</id>
+        <link href="https://jayssi.github.io//post/sheng-huo-xiao-ji-or-da-wang-jiao-wo-lai-xun-shan">
         </link>
         <updated>2019-08-04T09:59:23.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://jayssi.github.io/jcblog//post-images/1564912902263.jpeg" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="https://jayssi.github.io//post-images/1564912902263.jpeg" alt=""></p>
 <p>登山，其实是比较偏爱的兴趣之一了。</p>
 <p>运动一下嘛，总能促进一下多巴胺的分泌。</p>
 <p>再稍微给一点阻力呢，就能获得多一点点的成就感。</p>
 <p>在广州，有这样魅力的，就只有白云山。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564912824798.jpeg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564912824798.jpeg" alt=""></p>
 <p>今天，本打算足不出户。</p>
 <p>计划着，把昨晚去超市随意采购的一些食材，做一下新的尝试。</p>
 <p>无奈，清晨晾完衣服刚坐下，太阳发亮的触角偏偏透过阳台的落地窗，伸进了客厅。</p>
@@ -76,7 +76,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>原本，很慵懒地瘫在沙发。</p>
 <p>一刹间，竟又猛站了起来。</p>
 <p>回房间，换身衣服，拎上背包，说走就走。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564912837283.jpeg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564912837283.jpeg" alt=""></p>
 <p>这次依旧从老地方南门上山。</p>
 <p>无他，交通便利。</p>
 <p>山脚下行人不少。</p>
@@ -94,7 +94,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>这是一种比较好的进入心流的方式。</p>
 <p>思想和行动处于一个频道，十分自然与惬意。</p>
 <p>我很享受这样一个过程，因为.确实自在。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564912852251.jpeg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564912852251.jpeg" alt=""></p>
 <p>来到山顶广场的时候，人声鼎沸。</p>
 <p>有同样独行的青年，也有其乐融融的一家老小。</p>
 <p>但晨练的老人家却是最多的，并且常常是老来相伴。</p>
@@ -113,11 +113,11 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 小城故事]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-xiao-cheng-gu-shi</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-xiao-cheng-gu-shi">
+        <id>https://jayssi.github.io//post/sheng-huo-xiao-ji-or-xiao-cheng-gu-shi</id>
+        <link href="https://jayssi.github.io//post/sheng-huo-xiao-ji-or-xiao-cheng-gu-shi">
         </link>
         <updated>2019-08-04T09:52:04.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://jayssi.github.io/jcblog//post-images/1564912511241.jpeg" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="https://jayssi.github.io//post-images/1564912511241.jpeg" alt=""></p>
 <p>“下一站，杨箕，可换乘 1 号线，请从列车前进的方向右门下车。”<br>
 ……</p>
 <p>从广州的东部到西部，仅仅需要 1 个小时的时间，便能够感受到不一样的生活气息。<br>
@@ -130,7 +130,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>麻雀虽小，五脏倒也俱全。</p>
 <p>步行 15 分钟内，景色均能有所变化。</p>
 <p>既有车水马龙、亦有岁月静好。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564912519877.jpeg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564912519877.jpeg" alt=""></p>
 <p>工作的时间总是过得很快，不知不觉在荔湾这边已经住了快一个季度。<br>
 回想一下今年取得的最大成就，大概就是实现了走路上下班吧！</p>
 <p>早晨，在西华路那家固定的肠粉店门口……</p>
@@ -159,7 +159,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>一天下来，忙碌的身影在下午 18:00 这个时候，陆续地从写字楼里走了出来。</p>
 <p>疲惫写满脸上，而对回家的期盼，则流露在眼神里。</p>
 <p>健步如飞，即便是红灯路口，只要没有车辆往来，总是有那么几个不墨守成规的年轻人勇往直前。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564912598103.jpeg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564912598103.jpeg" alt=""></p>
 <p>如今已是昼长夜短的季节。</p>
 <p>天黑之前，先到流花湖公园里散散步吧，让“脚步”慢下来的同时，也顺便让大脑在后台整理一下这一整天的工作内容。</p>
 <p>我喜欢这里湖面的平静，每到这个时间点晚风徐徐，迎着远处若隐若现的广场舞歌曲，倦意总能一扫而光。</p>
@@ -172,8 +172,8 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 十五年前的那个小孩，今天还没有长大]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-shi-wu-nian-qian-de-na-ge-xiao-hai-jin-tian-huan-mei-you-chang-da</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-shi-wu-nian-qian-de-na-ge-xiao-hai-jin-tian-huan-mei-you-chang-da">
+        <id>https://jayssi.github.io//post/sheng-huo-xiao-ji-or-shi-wu-nian-qian-de-na-ge-xiao-hai-jin-tian-huan-mei-you-chang-da</id>
+        <link href="https://jayssi.github.io//post/sheng-huo-xiao-ji-or-shi-wu-nian-qian-de-na-ge-xiao-hai-jin-tian-huan-mei-you-chang-da">
         </link>
         <updated>2019-08-04T09:45:15.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -185,7 +185,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>社交网络有个特点：<br>
 一切总是来去匆匆，稍不留神，它就从你家门口经过。<br>
 你来不及打招呼，也来不及抓住，便转瞬即逝。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564912032194.jpeg" alt=""></p>
+<p><img src="https://jayssi.github.io//post-images/1564912032194.jpeg" alt=""></p>
 <hr>
 <h1 id="故事的开始你从没想过何时结束"># 故事的开始，你从没想过何时结束</h1>
 <p>昨天晚上，跟认识了 8 年的网友第一次会面，感觉甚是奇妙。</p>
@@ -220,11 +220,11 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 有一种浪漫，叫父母亲的那个年代]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-you-yi-chong-lang-man-jiao-fu-mu-qin-de-na-ge-nian-dai</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-you-yi-chong-lang-man-jiao-fu-mu-qin-de-na-ge-nian-dai">
+        <id>https://jayssi.github.io//post/sheng-huo-xiao-ji-or-you-yi-chong-lang-man-jiao-fu-mu-qin-de-na-ge-nian-dai</id>
+        <link href="https://jayssi.github.io//post/sheng-huo-xiao-ji-or-you-yi-chong-lang-man-jiao-fu-mu-qin-de-na-ge-nian-dai">
         </link>
         <updated>2019-08-04T09:42:04.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://jayssi.github.io/jcblog//post-images/1564911849223.jpeg" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="https://jayssi.github.io//post-images/1564911849223.jpeg" alt=""></p>
 <hr>
 <p>忘记从什么时候开始</p>
 <p>老豆在家里的庭院种了一棵玫瑰树</p>
@@ -266,8 +266,8 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 己亥年新春交响曲]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-ji-hai-nian-xin-chun-jiao-xiang-qu</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-ji-hai-nian-xin-chun-jiao-xiang-qu">
+        <id>https://jayssi.github.io//post/sheng-huo-xiao-ji-or-ji-hai-nian-xin-chun-jiao-xiang-qu</id>
+        <link href="https://jayssi.github.io//post/sheng-huo-xiao-ji-or-ji-hai-nian-xin-chun-jiao-xiang-qu">
         </link>
         <updated>2019-08-04T07:15:00.000Z</updated>
         <content type="html"><![CDATA[<hr>
@@ -290,7 +290,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>新年伊始，要相信在不远的将来，会有更多的美好事情相继发生。</p>
 <blockquote>
 <p>“信则有，不信则无” —— 谚语<br>
-<img src="https://jayssi.github.io/jcblog//post-images/1564911527959.jpeg" alt=""></p>
+<img src="https://jayssi.github.io//post-images/1564911527959.jpeg" alt=""></p>
 </blockquote>
 <h1 id="再见亦是缘"># 再见亦是缘</h1>
 <hr>
@@ -302,7 +302,7 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
 <p>再见亦是缘分，生命中的许多参与注定都只是暂时的，即使最终各自天涯，但既然相遇、相识、相知，那就应当好好珍惜当下的每一个陪伴。</p>
 <blockquote>
 <p>&quot;茶杯端起的时候是敬重，松手的时候是遗憾。&quot;<br>
-<img src="https://jayssi.github.io/jcblog//post-images/1564911538249.jpeg" alt=""></p>
+<img src="https://jayssi.github.io//post-images/1564911538249.jpeg" alt=""></p>
 </blockquote>
 <h1 id="逃离不是归宿"># 逃离不是归宿</h1>
 <hr>
@@ -325,8 +325,8 @@ OKR 的核心机制在于：与目标对齐（达成）</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 《再别新年》]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater">
+        <id>https://jayssi.github.io//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater</id>
+        <link href="https://jayssi.github.io//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater">
         </link>
         <updated>2019-08-04T06:01:02.000Z</updated>
         <content type="html"><![CDATA[<p>終於</p>
