@@ -1,2 +1,2 @@
-console.log('Hello suremotoo.')
+console.log('Hi~ JC.')
 
