@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayssi.github.io/jcblog/</id>
     <title>Hi, i&apos;m JC.</title>
-    <updated>2019-08-04T10:59:20.559Z</updated>
+    <updated>2019-08-04T11:58:32.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayssi.github.io/jcblog/"/>
     <link rel="self" href="https://jayssi.github.io/jcblog//atom.xml"/>
@@ -12,50 +12,50 @@
     <rights>All rights reserved 2019, Hi, i&apos;m JC.</rights>
     <entry>
         <title type="html"><![CDATA[关于技术团队如何进行绩效管理的思考]]></title>
-        <id>https://jayssi.github.io/jcblog//post/guan-yu-ji-zhu-tuan-dui-ru-he-jin-xing-ji-xiao-guan-li-de-si-kao</id>
-        <link href="https://jayssi.github.io/jcblog//post/guan-yu-ji-zhu-tuan-dui-ru-he-jin-xing-ji-xiao-guan-li-de-si-kao">
+        <id>https://jayssi.github.io/jcblog//post/thought-01</id>
+        <link href="https://jayssi.github.io/jcblog//post/thought-01">
         </link>
         <updated>2019-08-04T10:03:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 大王叫我来巡山]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-da-wang-jiao-wo-lai-xun-shan</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-da-wang-jiao-wo-lai-xun-shan">
+        <id>https://jayssi.github.io/jcblog//post/life-06</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-06">
         </link>
         <updated>2019-08-04T09:59:23.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 小城故事]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-xiao-cheng-gu-shi</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-xiao-cheng-gu-shi">
+        <id>https://jayssi.github.io/jcblog//post/life-05</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-05">
         </link>
         <updated>2019-08-04T09:52:04.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 十五年前的那个小孩，今天还没有长大]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-shi-wu-nian-qian-de-na-ge-xiao-hai-jin-tian-huan-mei-you-chang-da</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-shi-wu-nian-qian-de-na-ge-xiao-hai-jin-tian-huan-mei-you-chang-da">
+        <id>https://jayssi.github.io/jcblog//post/life-04</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-04">
         </link>
         <updated>2019-08-04T09:45:15.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 有一种浪漫，叫父母亲的那个年代]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-you-yi-chong-lang-man-jiao-fu-mu-qin-de-na-ge-nian-dai</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-you-yi-chong-lang-man-jiao-fu-mu-qin-de-na-ge-nian-dai">
+        <id>https://jayssi.github.io/jcblog//post/life-03</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-03">
         </link>
         <updated>2019-08-04T09:42:04.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 己亥年新春交响曲]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-ji-hai-nian-xin-chun-jiao-xiang-qu</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-ji-hai-nian-xin-chun-jiao-xiang-qu">
+        <id>https://jayssi.github.io/jcblog//post/life-02</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-02">
         </link>
         <updated>2019-08-04T07:15:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[生活小记 | 《再别新年》]]></title>
-        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater</id>
-        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater">
+        <id>https://jayssi.github.io/jcblog//post/life-01</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-01">
         </link>
         <updated>2019-08-04T06:01:02.000Z</updated>
     </entry>
