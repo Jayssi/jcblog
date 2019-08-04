@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayssi.github.io/jcblog/</id>
     <title>Hi, i&apos;m JC.</title>
-    <updated>2019-08-04T05:58:44.378Z</updated>
+    <updated>2019-08-04T06:01:51.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayssi.github.io/jcblog/"/>
     <link rel="self" href="https://jayssi.github.io/jcblog//atom.xml"/>
@@ -10,20 +10,31 @@
     <icon>https://jayssi.github.io/jcblog//favicon.ico</icon>
     <rights>All rights reserved 2019, Hi, i&apos;m JC.</rights>
     <entry>
-        <title type="html"><![CDATA[测试发布文章]]></title>
-        <id>https://jayssi.github.io/jcblog//post/test</id>
-        <link href="https://jayssi.github.io/jcblog//post/test">
+        <title type="html"><![CDATA[生活小记 | 《再别新年》]]></title>
+        <id>https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater</id>
+        <link href="https://jayssi.github.io/jcblog//post/sheng-huo-xiao-ji-or-lesslesszai-bie-xin-nian-greatergreater">
         </link>
-        <updated>2019-08-04T04:27:56.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一篇新建的文章，内容嘛，是随便写的，主要用来测试一下发布。</p>
-<p>多行文本。。。<br>
-多行文本。。。<br>
-多行文本。。。<br>
-多行文本。。。</p>
-<pre><code>就史蒂芬霍金水电费
-</code></pre>
-<p>多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。多行文本。。。</p>
-<p><img src="https://jayssi.github.io/jcblog//post-images/1564892933852.jpeg" alt=""></p>
+        <updated>2019-08-04T06:01:02.000Z</updated>
+        <content type="html"><![CDATA[<p>終於</p>
+<p>你悄然地离去</p>
+<p>你我不再互相拥有</p>
+<p>相遇是一场意外</p>
+<p>也是無聲的告白</p>
+<p>離別最是無奈</p>
+<p>卻是宿命里最好的安排</p>
+<p>夜裡</p>
+<p>風裡</p>
+<p>你駐立在歡聲里</p>
+<p>卻又漸漸在遠離</p>
+<p>任性的你離我遠去</p>
+<p>我沒有挽留</p>
+<p>也無法挽留</p>
+<p>心裡默默地在懷舊</p>
+<p>聖誕的雪花兒還未凋零</p>
+<p>新年的鐘聲終於響起</p>
+<p>後會無期</p>
+<p>我生命裡眾多的唯一</p>
+<p>：二零一八</p>
 ]]></content>
     </entry>
 </feed>
