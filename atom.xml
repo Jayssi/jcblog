@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayssi.github.io/jcblog/</id>
     <title>Hi, i&apos;m JC.</title>
-    <updated>2019-08-04T10:15:20.067Z</updated>
+    <updated>2019-08-04T10:16:16.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayssi.github.io/jcblog/"/>
     <link rel="self" href="https://jayssi.github.io/jcblog//atom.xml"/>
+    <subtitle>http://jayssi.tk</subtitle>
     <logo>https://jayssi.github.io/jcblog//images/avatar.png</logo>
     <icon>https://jayssi.github.io/jcblog//favicon.ico</icon>
     <rights>All rights reserved 2019, Hi, i&apos;m JC.</rights>
