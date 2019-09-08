@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jayssi.github.io/jcblog/</id>
     <title>Hi~ i&apos;m JC.</title>
-    <updated>2019-08-04T12:15:05.908Z</updated>
+    <updated>2019-09-08T13:31:04.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jayssi.github.io/jcblog/"/>
     <link rel="self" href="https://jayssi.github.io/jcblog//atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://jayssi.github.io/jcblog//images/avatar.png</logo>
     <icon>https://jayssi.github.io/jcblog//favicon.ico</icon>
     <rights>All rights reserved 2019, Hi~ i&apos;m JC.</rights>
+    <entry>
+        <title type="html"><![CDATA[生活小记 | 出发，一起去“假精致”]]></title>
+        <id>https://jayssi.github.io/jcblog//post/life-07</id>
+        <link href="https://jayssi.github.io/jcblog//post/life-07">
+        </link>
+        <updated>2019-09-08T13:24:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于技术团队如何进行绩效管理的思考]]></title>
         <id>https://jayssi.github.io/jcblog//post/thought-01</id>
